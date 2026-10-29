@@ -93,15 +93,15 @@ export const journeyChapters = [
     category: "Magang Pendidikan & Edukasi",
     readTime: "4 menit baca",
     badge: "Chapter 03 · 2025",
-    title: "SMA Muhammadiyah Cililin: Membangun LMS dan Mengajar di Ruang Kelas",
+    title: "SMA Muslimin Cililin: Membangun LMS dan Mengajar di Ruang Kelas",
     subtitle: "Sinergi rekayasa perangkat lunak edukasi dan peran aktif mendampingi siswa mendalami dasar informatika.",
     period: "2025",
     stat: "Web Developer & Asisten Pengajar",
     credential: "Sertifikat Magang & Asistensi Mengajar",
     location: "Cililin, Kab. Bandung Barat",
     heroImage: "/galeryporto/smam cililin/IMG_20251029_093715_199.jpg",
-    heroCaption: "Suasana pendampingan langsung di laboratorium komputer bersama para siswa SMA Muhammadiyah Cililin.",
-    lead: "Program magang di SMA Muhammadiyah Cililin memberikan pengalaman ganda yang sangat bermakna: memegang tanggung jawab teknis membangun sistem pembelajaran digital sekaligus mengajar langsung di hadapan siswa.",
+    heroCaption: "Suasana pendampingan langsung di laboratorium komputer bersama para siswa SMA Muslimin Cililin.",
+    lead: "Program magang di SMA Muslimin Cililin memberikan pengalaman ganda yang sangat bermakna: memegang tanggung jawab teknis membangun sistem pembelajaran digital sekaligus mengajar langsung di hadapan siswa.",
     content: [
       {
         type: "paragraph",
@@ -140,7 +140,7 @@ export const journeyChapters = [
       },
       {
         src: "/galeryporto/smam cililin/IMG_20251029_093619_293.jpg",
-        caption: "Dokumentasi suasana kegiatan belajar mengajar aktif di SMA Muhammadiyah Cililin."
+        caption: "Dokumentasi suasana kegiatan belajar mengajar aktif di SMA Muslimin Cililin."
       }
     ]
   },

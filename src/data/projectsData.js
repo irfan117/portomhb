@@ -126,13 +126,13 @@ export const projectsData = [
     featured: true,
     accentColor: "#38bdf8",
     bentoSpan: "md:col-span-2 lg:col-span-2",
-    badge: "Live Repo · SMA Muhammadiyah",
+    badge: "Live Repo · SMA Muslimin",
     period: "2025",
-    organization: "SMA Muhammadiyah Cililin",
+    organization: "SMA Muslimin Cililin",
     shortDescription:
       "Platform LMS web untuk manajemen kelas, materi pembelajaran digital, penugasan, penilaian, dan absensi daring terpusat.",
     description:
-      "Saya mengembangkan platform Learning Management System (LMS) berbasis web untuk mendukung kegiatan belajar-mengajar digital di SMA Muhammadiyah Cililin. Sistem ini mencakup manajemen kelas daring, distribusi modul ajar, penugasan tugas siswa, rekapitulasi penilaian, dan absensi kehadiran.",
+      "Saya mengembangkan platform Learning Management System (LMS) berbasis web untuk mendukung kegiatan belajar-mengajar digital di SMA Muslimin Cililin. Sistem ini mencakup manajemen kelas daring, distribusi modul ajar, penugasan tugas siswa, rekapitulasi penilaian, dan absensi kehadiran.",
     problemStatement:
       "Sekolah membutuhkan platform terpusat agar pengumpulan materi dan tugas siswa tidak tercecer dalam pesan grup chat, sekaligus mempermudah dewan guru memantau progres akademik.",
     solutionApproach:
