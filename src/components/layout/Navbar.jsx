@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { Menu, X, ArrowUpRight } from "lucide-react";
 import { profileData } from "../../data/profileData";
 import { GithubIcon } from "../common/SocialIcons";
+import { BrandLogo } from "../common/BrandLogo";
 
 export function Navbar() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
@@ -20,9 +21,9 @@ export function Navbar() {
         {/* Brand */}
         <a 
           href="#" 
-          className="flex items-center gap-2.5 text-zinc-200 hover:text-white font-mono text-sm font-semibold tracking-tight transition-colors"
+          className="flex items-center gap-2.5 text-zinc-200 hover:text-white font-mono text-sm font-semibold tracking-tight transition-colors group"
         >
-          <span className="w-2 h-2 rounded-full bg-emerald-400"></span>
+          <BrandLogo className="w-6 h-6 group-hover:scale-105 transition-transform" />
           <span>irfan<span className="text-zinc-500">.dev</span></span>
         </a>
 
